@@ -56,4 +56,5 @@ bank-account-manager/
 Youssef Fahem Amin
 Computer Science Student | Aspiring AI Engineer
 📧 yousef.fahem11@gmail.com
-🔗 LinkedIn | GitHub
+🔗 LinkedIn: www.linkedin.com/in/yousef-fahem0
+GitHub: github.com/youseffahem
